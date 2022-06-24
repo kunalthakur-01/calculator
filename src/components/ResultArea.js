@@ -3,12 +3,12 @@ import React from 'react';
 import './ResultArea.css';
 
 const ResultArea = props => {
-
+    const arr = ['0','1','2','3','4','5','6','7','8','9','.','+','*','-','/','',null];
     const changeHandler = (e) => {
-        // console.log(e.target.value)
-        // if(e.target.value[9] === '0123456789') {
-        // }
-        props.onChangeEvent(e.target.value);
+        
+        if (arr.includes(e.nativeEvent.data)) {
+            props.onChangeEvent(e.target.value);
+        }
     }
 
     const submitHandler = (e) => {

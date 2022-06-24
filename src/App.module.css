@@ -20,6 +20,7 @@ body {
   display: grid;
   grid-template-columns: 3fr 1fr;
   grid-template-rows: 0.6fr 2.5fr 0.5fr;
+  box-shadow: 0 0 15px 3px rgba(0,0,0,0.7);
 }
 
 .headerFooter {

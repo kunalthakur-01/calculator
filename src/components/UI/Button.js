@@ -9,7 +9,7 @@ const Button = props => {
     }
 
     return (
-        <button onClick={clickEventHandler} className={ `${props.style}` }>{props.children}</button>
+        <button key={props.id} onClick={clickEventHandler} className={ `${props.style}` }>{props.children}</button>
     );
 };
 

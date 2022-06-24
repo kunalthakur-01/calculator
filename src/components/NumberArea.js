@@ -17,7 +17,7 @@ const NumberArea = props => {
     return(
         <div className='numbers'>
             {numbs.map( (el) => (
-            <Button onClickEvent={clickHandler}>{el}</Button>
+            <Button id={Math.floor(Math.random() * 100) + 1} onClickEvent={clickHandler}>{el}</Button>
             ))}
 
 
