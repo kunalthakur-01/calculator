@@ -1,0 +1,25 @@
+.calculated-area {
+    background-color: black;
+    /* display: grid; */
+    /* justify-items: end; */
+    /* align-items: center; */
+    padding: 4%;
+}
+
+.calculated-area input {
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    border: none;
+    color: white;
+    text-align: right;
+    outline: none;
+    font-size: 17px;
+    letter-spacing: 2px;
+}
+
+input::-webkit-outer-spin-button,
+::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+}
+

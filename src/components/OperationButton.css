@@ -1,0 +1,17 @@
+.operations {
+    display: grid;
+    gap: 1px;
+}
+
+.operations button {
+    background-color: red;
+    color: white;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.operations button:active {
+    /* background-color: rgb(203, 93, 93); */
+    opacity: 0.8;
+}
