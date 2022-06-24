@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/kunal-13-dev/calculator.git/static/css/main.8094bfc0.css",
-    "main.js": "/kunal-13-dev/calculator.git/static/js/main.43b1432e.js",
-    "static/js/787.97c71ab1.chunk.js": "/kunal-13-dev/calculator.git/static/js/787.97c71ab1.chunk.js",
-    "index.html": "/kunal-13-dev/calculator.git/index.html",
-    "main.8094bfc0.css.map": "/kunal-13-dev/calculator.git/static/css/main.8094bfc0.css.map",
-    "main.43b1432e.js.map": "/kunal-13-dev/calculator.git/static/js/main.43b1432e.js.map",
-    "787.97c71ab1.chunk.js.map": "/kunal-13-dev/calculator.git/static/js/787.97c71ab1.chunk.js.map"
+    "main.css": "/calculator/static/css/main.8094bfc0.css",
+    "main.js": "/calculator/static/js/main.63263faf.js",
+    "static/js/787.97c71ab1.chunk.js": "/calculator/static/js/787.97c71ab1.chunk.js",
+    "index.html": "/calculator/index.html",
+    "main.8094bfc0.css.map": "/calculator/static/css/main.8094bfc0.css.map",
+    "main.63263faf.js.map": "/calculator/static/js/main.63263faf.js.map",
+    "787.97c71ab1.chunk.js.map": "/calculator/static/js/787.97c71ab1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8094bfc0.css",
-    "static/js/main.43b1432e.js"
+    "static/js/main.63263faf.js"
   ]
 }
